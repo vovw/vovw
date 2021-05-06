@@ -1,5 +1,5 @@
 <h3 align='center'>Hi there, Im voidz 👋</h3>
-<p align='center'><img align='center' width='360px' src='code.png'></img></p>
+<p align='center'><img align='center' width='360px' src='http://raw.githubusercontent.com/vooidz/MetaStag/main/code.png'></img></p>
 <hr/>
 
 **Languages I know:** Python, HTML & CSS (basics) , C++ (for competitive programming)
@@ -7,8 +7,7 @@
 **Languages I want to learn:** Lua, Rust
 
 **Goals for this year 🥅:**
-  - [x] learn linux
-  - [ ] Learning bash scripting 
+  - [x] Learn linux
   - [ ] Use AwesomeWM
   - [ ] Learn Rust 📝
   - [ ] Install ArchLinux 🕶️
