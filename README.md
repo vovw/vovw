@@ -2,20 +2,20 @@
 <p align='center'><img align='center' width='360px' src='https://64.media.tumblr.com/f44184258bf3c3712d2029e90c391a96/27f1ab5eb22beebb-6a/s640x960/2efdbe35f17bc117cc0db55a8e4cf97b973ee72e.gifv'></img></p>
 <hr/>
 
-**Languages I know:** Python, HTML & CSS (basics) , C++ (for competitive programming)
+**Technology I know:** Python, HTML & CSS, C++, Linux, Ricing-linux✨
 
-**Languages I want to learn:** Lua, Rust
+**Stuff I have intrest in :** Meme's,  Anime, helping people in general .
 
 **Tools I use:**
   - **Distro:** Linux Mint💻
-  - **WM:**  bspwm
-  - **Text Editor:** Neovim
+  - **WM:**  bspwm ⌨
+  - **Text Editor:** Neovim 💚
 
 
 <details>
   <summary> Hobbies 🎮 </summary>
   <br/>
-  <p align='center'> -> Programming, watching anime &  comp gaming and occasionally reading some books </p>
+  <p align='center'> -> Programming, watching anime &  competitive gaming and occasionally reading some books </p>
 </details>
 
 <!-- <details>
@@ -25,7 +25,7 @@
 </details>
  -->
 <details>
-  <summary> Profile Stats </summary>
+  <summary> Profile Stats ☕</summary>
   <br/>
   <p align='center'><img src="https://github-readme-stats.vercel.app/api/?username=vooidz&layout=compact&show_icons=true&include_all_commits=true&hide_border=false&theme=cobalt" />  
 </details>
