@@ -6,15 +6,9 @@
 
 **Languages I want to learn:** Lua, Rust
 
-**Goals for this year 🥅:**
-  - [x] Learn linux
-  - [ ] Use AwesomeWM
-  - [ ] Learn Rust 📝
-  - [ ] Install ArchLinux 🕶️
-
 **Tools I use:**
   - **Distro:** Linux Mint💻
-  - **WM:**  Awesome
+  - **WM:**  bspwm
   - **Text Editor:** Neovim
 
 
