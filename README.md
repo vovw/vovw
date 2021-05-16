@@ -7,7 +7,7 @@
 **Stuff I have intrest in :** Meme's,  Anime, helping people in general .
 
 **Tools I use:**
-  - **Distro:** Linux Mint💻
+  - **Distro:** Debian💻
   - **WM:**  bspwm ⌨
   - **Text Editor:** Neovim 💚
 
