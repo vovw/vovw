@@ -2,9 +2,9 @@
 <p align='center'><img align='center' width='360px' src='https://64.media.tumblr.com/f44184258bf3c3712d2029e90c391a96/27f1ab5eb22beebb-6a/s640x960/2efdbe35f17bc117cc0db55a8e4cf97b973ee72e.gifv'></img></p>
 <hr/>
 
-**Technology I know:** Python, HTML & CSS, C++, Linux, Ricing-linux✨
+**Technology I know:** Scripting ,Python, HTML & CSS, C++, Linux.
 
-**Stuff I have intrest in :** Meme's,  Anime, helping people in general .
+**Stuff I have intrest in :** Meme's, Anime, Linux .
 
 **Tools I use:**
   - **Distro:** Debian💻
