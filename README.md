@@ -8,7 +8,7 @@
 
 **Tools I use:**
   - **Distro:** Debian💻
-  - **WM:**  bspwm ⌨
+  - **WM:**  dwm ⌨
   - **Text Editor:** Neovim 💚
 
 
