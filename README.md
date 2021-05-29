@@ -3,9 +3,9 @@
 <hr/>
 -->
 
-**Technology I know:** Scripting ,Python, HTML & CSS, C++, Linux.
+**Technology I know:** Scripting, Python, Web-Dev , C++ , Linux.
 
-**Stuff I have intrest in :** Meme's, Anime, Linux .
+**Stuff I have intrest in :**  Meme's, Anime, Linux.
 
 **Tools I use:**
   - **Distro:** Debian💻
