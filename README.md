@@ -28,5 +28,5 @@
 <details>
   <summary> Profile Stats ☕</summary>
   <br/>
-  <p align='center'><img src="https://github-readme-stats.vercel.app/api/?username=vooidz&layout=compact&show_icons=true&include_all_commits=true&hide_border=false&theme=cobalt" />  
+  <p align='center'><img src="https://github-readme-stats.vercel.app/api/?username=voidz7&layout=compact&show_icons=true&include_all_commits=true&hide_border=false&theme=cobalt" />  
 </details>
