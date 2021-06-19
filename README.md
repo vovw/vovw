@@ -5,7 +5,7 @@
 **Stuff I have intrest in :**  Meme's, Anime, Linux.
 
 **Tools I use:**
-  - **Distro:** Debian💻
+  - **Distro:** void linux (lmao)💻
   - **WM:**  sowm ⌨
   - **Text Editor:** Neovim 💚
 
