@@ -1,6 +1,6 @@
 <h3 align='center'>Hi there, I am voidz </h3>
 
-**Stuff I have intrest in :**  Linux , Anime, .
+**Stuff I have intrest in :**  Linux , Anime, Minimalism .
 
 **Tools I use:**
   - **Distro:** void linux (lmao)💻
