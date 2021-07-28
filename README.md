@@ -1,1 +1,3 @@
-<img src="https://img.shields.io/github/release/arcticicestudio/nord.svg?style=flat-square&label=Release&logo=github&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/>
+<p align="center">
+<a href="https://github.com/mountain-theme/Mountain"><img src="https://img.shields.io/static/v1?label=Use%20By&message=Mountain&color=9ec49f&style=for-the-badge&labelColor=0f0f0f"></a>
+</p>
