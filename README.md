@@ -1,3 +1,5 @@
-<p align="center">
-<a href="https://github.com/mountain-theme/Mountain"><img src="https://img.shields.io/static/v1?label=Use%20&message=Mountain&color=9ec49f&style=for-the-badge&labelColor=0f0f0f"></a>
+# yo
+
+<p align='center'>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=voidz7&theme=nord&background=0F0F0F&border=0f0f0f&stroke=CACACA&ring=ACA98A&fire=CEB188&currStreakNum=F0F0F0&sideNums=E7E7E7E7&currStreakLabel=CACACA&sideLabels=CACACA&dates=8A98AC)](https://git.io/streak-stats)
 </p>
