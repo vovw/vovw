@@ -6,3 +6,8 @@
     </samp>
 </p>
 <h2></h2>
+<div align="right">
+    
+![](https://komarev.com/ghpvc/?username=voidz&style=flat-square&color=1C1918)
+    
+</div>
