@@ -2,6 +2,6 @@
     <samp>
     <a href="https://dsc.bio/voidz" target="_blank">Discord</a> •
     <a href="https://voidz7.github.io" target="_blank">website</a> •
-    <a href="https://www.reddit.com/user/voidz-7" target="_blank">reddit</a>
+    <a href="https://www.twitter.com/gg_voidz" target="_blank">twitter</a>
     </samp>
 </p>
