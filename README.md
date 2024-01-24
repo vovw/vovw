@@ -1,6 +1,6 @@
 <p align="center">
     <samp>
-    <a href="https://ksagar.me target="_blank">website</a>
+    <a href="https://ksagar.me" target="_blank">website</a>
     </samp>
 </p>
 <p align="center">
